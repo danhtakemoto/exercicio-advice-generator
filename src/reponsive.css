@@ -1,0 +1,12 @@
+@media (max-width: 500px){
+    
+    .card{
+        padding-inline: 50px;
+        width: 320px;
+    }
+
+    .divisor{
+        flex-basis: 2;
+        max-width: 100%;
+    }
+}
